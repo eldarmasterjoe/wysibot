@@ -11,3 +11,5 @@ APIKEY=111111111111111111111111 #(Discord apikey)
 ```
 3. Ensure wysibot.py, .env, and player_score.json are in the same folder (player_score.json is created on first run)
 4. Don't mess with the player_score.json file 
+
+Enjoy!
